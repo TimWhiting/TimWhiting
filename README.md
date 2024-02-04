@@ -2,8 +2,8 @@
 
 ## About Me
 - 🔭 I’m currently working on: My PhD Research, along with a few fun side projects
-- 🌱 I’m currently learning: Languages, Frameworks, Human UI Interaction
-- 💬 Ask me about: Dart, Flutter, ROS(Robot Operating System), Artificial Intelligence, Human-Robot Interaction
+- 🌱 I’m currently learning: Languages, Control Flow Analysis
+- 💬 Ask me about: Koka, Control Flow Analysis, Dart, Flutter
 - 📫 How to reach me: Add an issue on one of my repositories, ideally one of the ones that you are interested in collaborating or knowing more about.
 
 ## Personal Website
