@@ -15,7 +15,7 @@ tim at whitings dot org
 
 ## Papers
 
-**Programming Languages: PHD Research**
+**Programming Languages: PhD Research**
 - Context-Sensitive Demand-Driven Control Flow Analysis (Accepted at ESOP)
 
 **Digital Control Systems: Internships**
