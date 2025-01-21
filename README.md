@@ -8,6 +8,6 @@
 
 ## Websites:
 [Personal Blog](https://blog.timwhiting.dev) (outdated)
-[BYU Static Analysis Lab Blog](https://byu-static-analysis-lab.github.io/blog/) (blog about recent learnings)
+[BYU Static Analysis Lab Blog](https://byu-static-analysis-lab.github.io/blog/) (more up to date)
 [LinkedIn](https://www.linkedin.com/in/tim-whiting/)
 
