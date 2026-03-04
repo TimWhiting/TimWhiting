@@ -16,7 +16,9 @@ tim at whitings dot org
 ## Papers
 
 **Programming Languages: PhD Research**
-- Context-Sensitive Demand-Driven Control Flow Analysis (Accepted at ESOP)
+- Control Flow Analysis for Effect Handlers: In submission, no link yet...
+- [Syntactic Implicit Parameters with Static Overloading](https://www.microsoft.com/en-us/research/publication/syntactic-implicit-parameters-with-static-overloading-extended-version/)
+- [Context-Sensitive Demand-Driven Control Flow Analysis (ESOP 2025)](https://link.springer.com/chapter/10.1007/978-3-031-91121-7_15)
 
 **Digital Control Systems: Internships**
 - [A Comparison of Three Types of Computer-Based Procedures: An Experiment Using the Rancor Microworld Simulator](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-sGlzNQAAAAJ&citation_for_view=-sGlzNQAAAAJ:_FM0Bhl9EiAC)
