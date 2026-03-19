@@ -9,10 +9,11 @@
 tim at whitings dot org
 
 ## Websites:
-[Personal Website](https://www.timwhiting.dev) (WIP)
-[BYU Static Analysis Lab Blog](https://byu-static-analysis-lab.github.io/blog/)
-[Old Blog](https://blog.timwhiting.dev) (outdated)
-[LinkedIn](https://www.linkedin.com/in/tim-whiting/)
+
+- [Personal Website](https://www.timwhiting.dev) (WIP)
+- [BYU Static Analysis Lab Blog](https://byu-static-analysis-lab.github.io/blog/)
+- [Old Blog](https://blog.timwhiting.dev)
+- [LinkedIn](https://www.linkedin.com/in/tim-whiting/)
 
 ## Papers
 
